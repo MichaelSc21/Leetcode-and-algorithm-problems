@@ -1,0 +1,5 @@
+# Largest prime factor of 600851475143
+
+list=[]
+for i in range(1, 600851475144):
+    if i not 
